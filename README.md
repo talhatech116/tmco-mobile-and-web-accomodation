@@ -1,6 +1,6 @@
 # 🏨 TMCO Mobile & Web Accommodation Platform  
 
-A **cross-platform accommodation management system** built with **Flutter (mobile)** and **React.js + Node.js (web backend)**.  
+A **cross-platform accommodation management system** built with **Flutter (mobile)** and **Laravel (web backend)**.  
 This platform simplifies the handling of **maintenance requests, user check-ins/checkouts, employee/guest records, and user dashboards** through API-driven integrations.  
 
 ---
@@ -101,9 +101,9 @@ Integrated purchase order system for staff.
 
 ## 🛠️ Tech Stack  
 - **Frontend (Mobile):** Flutter  
-- **Frontend (Web):** React.js  
-- **Backend:** Node.js (REST API)  
-- **Database:** MySQL / MongoDB / PostgreSQL (configurable)  
+- **Frontend (Web):** Bootstrap  
+- **Backend:** Laravel 
+- **Database:** MySQL
 - **Authentication & Security:** API-based authentication  
 
 ---
