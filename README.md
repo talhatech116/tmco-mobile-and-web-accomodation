@@ -101,7 +101,7 @@ Integrated purchase order system for staff.
 
 ## 🛠️ Tech Stack  
 - **Frontend (Mobile):** Flutter  
-- **Frontend (Web):** React  
+- **Frontend (Web):** Bootstrap  
 - **Backend:** Laravel 
 - **Database:** MySQL
 - **Authentication & Security:** API-based authentication  
